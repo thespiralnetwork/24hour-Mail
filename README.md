@@ -1,8 +1,8 @@
 # 24hour-Mail
 You Probably Know The Site 10MinuteMail, Right? Well I Have Made A Script That Auto Refreshes Ten Minute Mail And Can Give You Up To ∞ Minutes/Hours (If You Keep Your Computer On) Also I Type Capitalized Because I Can
 
-* How Di I Use It? 
-> All You Do Is Just Type:
+* How DO I Use It? 
+> All You Do Is Just Type Whats Bello0w In The Console:
 ```js
 $.getScript('https://thespiralnetwork.com.au/javascript/10minmailhack/24hmail.js');
 ```
