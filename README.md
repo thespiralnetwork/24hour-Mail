@@ -8,6 +8,10 @@ You Probably Know The Site 10MinuteMail, Right? Well I Have Made A Script That A
 ```js
 $.getScript('https://thespiralnetwork.com.au/javascript/10minmailhack/24hmail.js');
 ```
+**OR**
+> Paste Whatevers In Source.js
+
+**Plz Credit Me If You Use This**
 * How Is It Made?
 > Just Simle JS That I Learnt
 
@@ -16,6 +20,6 @@ $.getScript('https://thespiralnetwork.com.au/javascript/10minmailhack/24hmail.js
 **24hourmail@thespiralnetwork.com.au**
 
 ```
-PPS: If I Did Anything Wrong Also Send The Emails To the Adress Above
+PPS: If I Did Anything Wrong Also Send An Emails To the Adress Above
 ```
 
