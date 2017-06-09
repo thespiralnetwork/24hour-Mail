@@ -14,6 +14,6 @@ $.getScript('https://thespiralnetwork.com.au/javascript/10minmailhack/24hmail.js
 **24hourmail@thespiralnetwork.com.au**
 
 ```
-PPS: *f I Did Anything Wrong Also Send The Emails To the Adress Above
+PPS: If I Did Anything Wrong Also Send The Emails To the Adress Above
 ```
 
